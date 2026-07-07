@@ -1,2 +1,4 @@
 # cs-python-coursework
 Python Programming &amp; Data Science - Academic learning, practical and projects.
+
+**⚠️ Academic Integrity Notice:** This repository contains official coursework submissions for python programming for data science at Sheth LUJ & Sir MV College of Arts, Commerce and Science. Copying this code violates university plagiarism policies and will be flagged by automated detection tools.
